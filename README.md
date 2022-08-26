@@ -1,3 +1,3 @@
 # Authorizer
 ## Installation
-Use (this link)[https://prelevatedinsider22581.github.io/ModelSense-Potential-Authorizer].
+Use [https://prelevatedinsider22581.github.io/ModelSense-Potential-Authorizer](this link).
